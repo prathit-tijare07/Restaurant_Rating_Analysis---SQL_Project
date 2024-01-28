@@ -11,7 +11,7 @@
  * I will use SQL to extract,transfrom and analyze the data.
  * The insights gained from this analysis will be used to understand the factors that influence a restaurant's rating and make recommendations for improvement.
  * I will examine the relationship between different variables such as the location, cuisine and price range of the restaurants and their ratings.
- * I will also done sentiment analysis to analyse most favorable restaurants of customers.
+ * I will also done sentiment analysis to analyse most favourable restaurants of customers.
 
  Data :-
 
